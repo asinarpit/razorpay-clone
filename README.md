@@ -14,4 +14,4 @@ The Razorpay Website Clone project aims to replicate the design and layout of th
 
 ## Live Demo
 
-You can access a live demo of the project at [Razorpay Clone](https://razorpay-clone.netlify.app).
+You can access a live demo of the project at [Razorpay Clone](https://asin-razorpay-clone.netlify.app).
